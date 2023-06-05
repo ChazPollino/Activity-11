@@ -1,0 +1,15 @@
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.AssemblyInfoInputs.cache
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.AssemblyInfo.cs
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\bin\Debug\net6.0\Activity 11 practice 2.exe
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\bin\Debug\net6.0\Activity 11 practice 2.deps.json
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\bin\Debug\net6.0\Activity 11 practice 2.runtimeconfig.json
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\bin\Debug\net6.0\Activity 11 practice 2.dll
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\bin\Debug\net6.0\Activity 11 practice 2.pdb
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.dll
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\refint\Activity 11 practice 2.dll
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.pdb
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\Activity 11 practice 2.genruntimeconfig.cache
+C:\Users\Dusty4G\source\repos\Activity 11 practice 2\Activity 11 practice 2\obj\Debug\net6.0\ref\Activity 11 practice 2.dll
